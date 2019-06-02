@@ -2,6 +2,8 @@
 
 Aplicativo para conversão de moeda BRL, USD e EUR
 
+![](example/app.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
